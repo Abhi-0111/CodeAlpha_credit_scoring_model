@@ -83,3 +83,5 @@ try:
 
 except ValueError:
     print("\nError: Please enter valid numeric values for age, income, and amounts.")
+print("Thanks for using this model") 
+   
